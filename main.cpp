@@ -1,3 +1,4 @@
+// Count passing scores.
 #include <iostream>
 int main() {
     int score, passed = 0;
